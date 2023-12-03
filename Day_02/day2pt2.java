@@ -58,7 +58,7 @@ class day2pt2 {
             // pw.println("Green: " + minGreen);
 
             ret += minRed*minBlue*minGreen;
-        }
+        }  
 
         pw.println(ret);
         br.close();
